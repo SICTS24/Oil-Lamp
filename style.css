@@ -1,15 +1,17 @@
 
 .body{
     overflow: hidden;
+    background-color: black;
     margin: 0;
 }
 
 .lamp{
-    background-image: url("pngwing.com.png");
+    background-image: url("oil lamp final.png");
     width: 100vw;
     height: 100vh;
+    background-size: contain;
+    /*background-size: 30% 100%;*/
     background-position: center;
-    background-size: 22% 100%;
     background-repeat: no-repeat;
     position: fixed;
     

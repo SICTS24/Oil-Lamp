@@ -14,37 +14,37 @@ function keyCheck(event){
     if(event.which == 65){  //A
        var flame = document.getElementById("flame"+ 0);
        flame.style.visibility = "visible";
-       flame.style.backgroundPosition = 40 + "%" + "" + 14 + "%";
+       flame.style.backgroundPosition = 45 + "%" + "" + 22 + "%";
     }
     if(event.which == 66){ //B
         var flame = document.getElementById("flame"+ 1);
         flame.style.visibility = "visible";
-        flame.style.backgroundPosition = 43.5 + "%" + "" + 19 + "%";
+        flame.style.backgroundPosition = 47 + "%" + "" + 25 + "%";
     }
     if(event.which == 67){  //C
         var flame = document.getElementById("flame"+ 2);
         flame.style.visibility = "visible";
-        flame.style.backgroundPosition = 50.5 + "%" + "" + 20 + "%";
+        flame.style.backgroundPosition = 54 + "%" + "" + 25 + "%";
     }
     if(event.which == 68){  //D
        var flame = document.getElementById("flame"+ 3);
        flame.style.visibility = "visible";
-       flame.style.backgroundPosition = 56 + "%" + "" + 18 + "%";
+       flame.style.backgroundPosition = 56 + "%" + "" + 22 + "%";
     }
-    if(event.which == 69){
+    if(event.which == 69){//E
        var flame = document.getElementById("flame"+ 4);
        flame.style.visibility = "visible";
-       flame.style.backgroundPosition = 40 + "%" + "" + 14 + "%";
+       flame.style.backgroundPosition = 44 + "%" + "" + 42 + "%";
     }
-    if(event.which == 70){
+    if(event.which == 70){//F
        var flame = document.getElementById("flame"+ 5);
        flame.style.visibility = "visible";
-       flame.style.backgroundPosition = 40 + "%" + "" + 14 + "%";
+       flame.style.backgroundPosition = 47 + "%" + "" + 45 + "%";
     }
-    if(event.which == 71){
+    if(event.which == 71){//G
        var flame = document.getElementById("flame"+ 6);
        flame.style.visibility = "visible";
-       flame.style.backgroundPosition = 40 + "%" + "" + 14 + "%";
+       flame.style.backgroundPosition = 54 + "%" + "" + 45 + "%";
     }
     
     

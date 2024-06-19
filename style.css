@@ -6,10 +6,10 @@
 }
 
 .lamp{
-    background-image: url("oil lamp final.png");
+    background-image: url("Oil\ Lamp\ Final6.jpg");
     width: 100vw;
     height: 100vh;
-    background-size: contain;
+    background-size: 100% 100%;
     /*background-size: 30% 100%;*/
     background-position: center;
     background-repeat: no-repeat;

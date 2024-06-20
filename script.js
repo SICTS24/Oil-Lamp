@@ -1,7 +1,7 @@
 var counter = 0;
 var numofguests = 18;
 function keyCheck(event){
-    if(counter < 1 && event.which == 65){  //A
+    if(counter < 1 && event.which == 90){  //A
         counter = 1;
         for(var i = 0; i < numofguests; i++){
             var flame = document.createElement("div");
